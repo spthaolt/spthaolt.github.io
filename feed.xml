@@ -3,12 +3,55 @@
     <title>Thao Le Blog</title>
     <link href="https://thaole.me/feed.xml" rel="self" />
     <link href="https://thaole.me" />
-    <updated>2019-01-10T10:42:29+07:00</updated>
+    <updated>2019-01-10T17:24:08+07:00</updated>
     <author>
         <name>Thao Le</name>
     </author>
     <id>https://thaole.me</id>
 
+    <entry>
+        <title>Dễ dàng cài đặt NodeJS trên Linux sử dụng NVM</title>
+        <author>
+            <name>Thao Le</name>
+        </author>
+        <link href="https://thaole.me/de-dang-cai-dat-nodejs-tren-linux-su-dung-nvm.html"/>
+        <id>https://thaole.me/de-dang-cai-dat-nodejs-tren-linux-su-dung-nvm.html</id>
+            <category term="nodejs"/>
+            <category term="linux"/>
+
+        <updated>2019-01-10T17:20:28+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thaole.me/media/posts/9/" alt="" />
+                    Cài đặt NVM (Node Version Manager)Đầu tiên hãy đảm bảo máy bạn đã có wget và git sudo apt install -y wget gitCopy + dán dòng lệnh tiếp theo để cài đặt nvm wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bashCopy + dán 2 dòng sau vào cuối&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thaole.me/media/posts/9/" alt="" />
+                <h2 id="mcetoc_1d0rk7e3j0">Cài đặt NVM (Node Version Manager)</h2>
+<p>Đầu tiên hãy đảm bảo máy bạn đã có <strong>wget</strong> và<strong> git</strong></p>
+<pre><code class="language-bash">sudo apt install -y wget git</code></pre>
+<p>Copy + dán dòng lệnh tiếp theo để cài đặt <strong>nvm</strong> </p>
+<pre><code class="language-bash">wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash</code></pre>
+<p>Copy + dán 2 dòng sau vào cuối file <code>~/.bashrc</code> hoặc <code>~/.zshrc</code> nếu bạn sử dụng zsh thay vì bash</p>
+<pre><code class="language-bash">export NVM_DIR="${XDG_CONFIG_HOME/:-$HOME/.}nvm"
+[ -s "$NVM_DIR/nvm.sh" ] &amp;&amp; \. "$NVM_DIR/nvm.sh" # This loads nvm</code></pre>
+<p>Tắt terminal hiện tại và mở 1 terminal mới ( để chạy lại file .bashrc/.zshrc ) hoặc bạn có thể chạy lệnh sau đây để chạy lại .bashrc mà không cần tắt+mở terminal</p>
+<pre><code class="language-bash">source ~/.bashrc</code></pre>
+<h2 id="mcetoc_1d0rk7urt1">Cài đặt NodeJS</h2>
+<p>Để cài phiên bản LTS (Long Term Support)</p>
+<pre><code class="language-bash">nvm install --lts</code></pre>
+<p>Để cài phiên bản mới nhất</p>
+<pre><code class="language-bash">nvm install node</code></pre>
+<p>Để cài phiên bản cụ thể mà bạn mong muốn</p>
+<pre><code class="language-bash">nvm install 8.9.1</code></pre>
+<p>Bạn có thể cùng một máy cài nhiều phiên bản NodeJS, để chuyển đổi phiên bản đang được sử dụng, dùng lệnh <code>nvm use</code>, ví dụ để kích hoạt phiên bản LTS:</p>
+<pre><code class="language-bash">nvm use --lts</code></pre>
+<p>Chi tiết về cách sử dụng và tham số cho <strong>nvm</strong> có thể xem tại <a href="https://github.com/creationix/nvm" target="_blank" rel="noopener noreferrer">https://github.com/creationix/nvm</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tự làm blog cá nhân với Publii</title>
         <author>
@@ -31,7 +74,7 @@
             <category term="phát triển web"/>
             <category term="nodejs"/>
 
-        <updated>2019-01-10T09:00:28+07:00</updated>
+        <updated>2019-01-10T16:59:52+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -57,9 +100,24 @@
         <id>https://thaole.me/vai-huong-dan-ve-lap-trinh-c-tren-linux.html</id>
             <category term="cpp"/>
 
-        <updated>2019-01-10T08:25:13+07:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-01-10T16:59:49+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thaole.me/media/posts/5/" alt="" />
+                    #include &lt;stdio&gt; int main() { return 0;} 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thaole.me/media/posts/5/" alt="" />
+                <pre><code class="language-cpp">#include &lt;stdio&gt;
+  
+int main() {
+  return 0;
+}</code></pre>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Thiết lập môi trường lập trình nhúng với QtCreator</title>
@@ -94,7 +152,7 @@
         <id>https://thaole.me/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html</id>
             <category term="phát triển web"/>
 
-        <updated>2019-01-10T08:44:08+07:00</updated>
+        <updated>2019-01-10T16:59:59+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thaole.me/media/posts/3/" alt="" />
@@ -152,7 +210,7 @@
         <id>https://thaole.me/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html</id>
             <category term="nodejs"/>
 
-        <updated>2019-01-10T08:44:32+07:00</updated>
+        <updated>2019-01-10T16:59:57+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thaole.me/media/posts/1/" alt="" />

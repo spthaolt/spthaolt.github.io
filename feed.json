@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://thaole.me/de-dang-cai-dat-nodejs-tren-linux-su-dung-nvm.html",
+            "url": "https://thaole.me/de-dang-cai-dat-nodejs-tren-linux-su-dung-nvm.html",
+            "title": "Dễ dàng cài đặt NodeJS trên Linux sử dụng NVM",
+            "summary": "Cài đặt NVM (Node Version Manager)Đầu tiên hãy đảm bảo máy bạn đã có wget và git sudo apt install -y wget gitCopy + dán dòng lệnh tiếp theo để cài đặt nvm wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bashCopy + dán 2 dòng sau vào cuối&hellip;",
+            "content_html": "<h2 id=\"mcetoc_1d0rk7e3j0\">Cài đặt NVM (Node Version Manager)</h2>\n<p>Đầu tiên hãy đảm bảo máy bạn đã có <strong>wget</strong> và<strong> git</strong></p>\n<pre><code class=\"language-bash\">sudo apt install -y wget git</code></pre>\n<p>Copy + dán dòng lệnh tiếp theo để cài đặt <strong>nvm</strong> </p>\n<pre><code class=\"language-bash\">wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash</code></pre>\n<p>Copy + dán 2 dòng sau vào cuối file <code>~/.bashrc</code> hoặc <code>~/.zshrc</code> nếu bạn sử dụng zsh thay vì bash</p>\n<pre><code class=\"language-bash\">export NVM_DIR=\"${XDG_CONFIG_HOME/:-$HOME/.}nvm\"\n[ -s \"$NVM_DIR/nvm.sh\" ] &amp;&amp; \\. \"$NVM_DIR/nvm.sh\" # This loads nvm</code></pre>\n<p>Tắt terminal hiện tại và mở 1 terminal mới ( để chạy lại file .bashrc/.zshrc ) hoặc bạn có thể chạy lệnh sau đây để chạy lại .bashrc mà không cần tắt+mở terminal</p>\n<pre><code class=\"language-bash\">source ~/.bashrc</code></pre>\n<h2 id=\"mcetoc_1d0rk7urt1\">Cài đặt NodeJS</h2>\n<p>Để cài phiên bản LTS (Long Term Support)</p>\n<pre><code class=\"language-bash\">nvm install --lts</code></pre>\n<p>Để cài phiên bản mới nhất</p>\n<pre><code class=\"language-bash\">nvm install node</code></pre>\n<p>Để cài phiên bản cụ thể mà bạn mong muốn</p>\n<pre><code class=\"language-bash\">nvm install 8.9.1</code></pre>\n<p>Bạn có thể cùng một máy cài nhiều phiên bản NodeJS, để chuyển đổi phiên bản đang được sử dụng, dùng lệnh <code>nvm use</code>, ví dụ để kích hoạt phiên bản LTS:</p>\n<pre><code class=\"language-bash\">nvm use --lts</code></pre>\n<p>Chi tiết về cách sử dụng và tham số cho <strong>nvm</strong> có thể xem tại <a href=\"https://github.com/creationix/nvm\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/creationix/nvm</a></p>",
+            "image": "https://thaole.me/media/posts/9/",
+            "author": {
+                "name": "Thao Le"
+            },
+            "tags": [
+                   "nodejs",
+                   "linux"
+            ],
+            "date_published": "2019-01-10T17:20:02+07:00",
+            "date_modified": "2019-01-10T17:20:28+07:00"
+        },
+        {
             "id": "https://thaole.me/tu-lam-blog-ca-nhan-voi-publii.html",
             "url": "https://thaole.me/tu-lam-blog-ca-nhan-voi-publii.html",
             "title": "Tự làm blog cá nhân với Publii",
@@ -35,7 +52,7 @@
                    "nodejs"
             ],
             "date_published": "2019-01-10T08:37:03+07:00",
-            "date_modified": "2019-01-10T09:00:28+07:00"
+            "date_modified": "2019-01-10T16:59:52+07:00"
         },
         {
             "id": "https://thaole.me/bien-dich-va-cai-dat-linux-kernel-module-cho-ic-giao-tiep-usb-max3421e.html",
@@ -55,6 +72,8 @@
             "id": "https://thaole.me/vai-huong-dan-ve-lap-trinh-c-tren-linux.html",
             "url": "https://thaole.me/vai-huong-dan-ve-lap-trinh-c-tren-linux.html",
             "title": "Vài hướng dẫn về lập trình C++ trên Linux",
+            "summary": "#include &lt;stdio&gt; int main() { return 0;} ",
+            "content_html": "<pre><code class=\"language-cpp\">#include &lt;stdio&gt;\n  \nint main() {\n  return 0;\n}</code></pre>\n<p> </p>",
             "image": "https://thaole.me/media/posts/5/",
             "author": {
                 "name": "Thao Le"
@@ -63,7 +82,7 @@
                    "cpp"
             ],
             "date_published": "2019-01-10T08:22:42+07:00",
-            "date_modified": "2019-01-10T08:25:13+07:00"
+            "date_modified": "2019-01-10T16:59:49+07:00"
         },
         {
             "id": "https://thaole.me/thiet-lap-moi-truong-lap-trinh-nhung-voi-qtcreator.html",
@@ -95,7 +114,7 @@
                    "phát triển web"
             ],
             "date_published": "2019-01-10T06:45:48+07:00",
-            "date_modified": "2019-01-10T08:44:08+07:00"
+            "date_modified": "2019-01-10T16:59:59+07:00"
         },
         {
             "id": "https://thaole.me/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html",
@@ -127,7 +146,7 @@
                    "nodejs"
             ],
             "date_published": "2019-01-10T06:36:17+07:00",
-            "date_modified": "2019-01-10T08:44:32+07:00"
+            "date_modified": "2019-01-10T16:59:57+07:00"
         }
     ]
 }
