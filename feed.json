@@ -13,14 +13,14 @@
             "id": "https://thaole.me/tu-lam-blog-ca-nhan-voi-publii.html",
             "url": "https://thaole.me/tu-lam-blog-ca-nhan-voi-publii.html",
             "title": "Tự làm blog cá nhân với Publii",
-            "image": "https://thaole.me/media/posts/8/",
+            "image": "https://thaole.me/media/posts/8/Screenshot-from-2019-01-10-08-52-11.png",
             "author": {
                 "name": "Thao Le"
             },
             "tags": [
             ],
             "date_published": "2019-01-10T08:37:56+07:00",
-            "date_modified": "2019-01-10T08:40:23+07:00"
+            "date_modified": "2019-01-10T08:52:39+07:00"
         },
         {
             "id": "https://thaole.me/phat-trien-va-trien-khai-ung-dung-web-mien-phi-su-dung-nuxtjs-va-surgesh.html",
@@ -95,7 +95,7 @@
                    "phát triển web"
             ],
             "date_published": "2019-01-10T06:45:48+07:00",
-            "date_modified": "2019-01-10T07:15:09+07:00"
+            "date_modified": "2019-01-10T08:44:08+07:00"
         },
         {
             "id": "https://thaole.me/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html",
@@ -111,7 +111,7 @@
                    "linux"
             ],
             "date_published": "2019-01-10T06:42:55+07:00",
-            "date_modified": "2019-01-10T07:30:04+07:00"
+            "date_modified": "2019-01-10T08:43:51+07:00"
         },
         {
             "id": "https://thaole.me/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html",
@@ -127,7 +127,7 @@
                    "nodejs"
             ],
             "date_published": "2019-01-10T06:36:17+07:00",
-            "date_modified": "2019-01-10T06:44:49+07:00"
+            "date_modified": "2019-01-10T08:44:32+07:00"
         }
     ]
 }
