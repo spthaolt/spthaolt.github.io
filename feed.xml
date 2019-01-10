@@ -3,12 +3,28 @@
     <title>Thao Le Blog</title>
     <link href="https://thaole.me/feed.xml" rel="self" />
     <link href="https://thaole.me" />
-    <updated>2019-01-10T17:24:08+07:00</updated>
+    <updated>2019-01-10T17:44:00+07:00</updated>
     <author>
         <name>Thao Le</name>
     </author>
     <id>https://thaole.me</id>
 
+    <entry>
+        <title>Thử nghiệm  xây dựng ứng dụng web với .NET Core, Angular, MSSQL và nginx trên Linux</title>
+        <author>
+            <name>Thao Le</name>
+        </author>
+        <link href="https://thaole.me/thu-nghiem-xay-dung-ung-dung-web-voi-net-core-angular-mssql-va-nginx-tren-linux.html"/>
+        <id>https://thaole.me/thu-nghiem-xay-dung-ung-dung-web-voi-net-core-angular-mssql-va-nginx-tren-linux.html</id>
+            <category term="nginx"/>
+            <category term="linux"/>
+            <category term="dotnet"/>
+            <category term="angular"/>
+
+        <updated>2019-01-10T17:38:01+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Dễ dàng cài đặt NodeJS trên Linux sử dụng NVM</title>
         <author>
@@ -59,8 +75,9 @@
         </author>
         <link href="https://thaole.me/tu-lam-blog-ca-nhan-voi-publii.html"/>
         <id>https://thaole.me/tu-lam-blog-ca-nhan-voi-publii.html</id>
+            <category term="web"/>
 
-        <updated>2019-01-10T08:52:39+07:00</updated>
+        <updated>2019-01-10T17:24:25+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -71,7 +88,7 @@
         </author>
         <link href="https://thaole.me/phat-trien-va-trien-khai-ung-dung-web-mien-phi-su-dung-nuxtjs-va-surgesh.html"/>
         <id>https://thaole.me/phat-trien-va-trien-khai-ung-dung-web-mien-phi-su-dung-nuxtjs-va-surgesh.html</id>
-            <category term="phát triển web"/>
+            <category term="web"/>
             <category term="nodejs"/>
 
         <updated>2019-01-10T16:59:52+07:00</updated>
@@ -150,7 +167,7 @@ int main() {
         </author>
         <link href="https://thaole.me/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html"/>
         <id>https://thaole.me/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html</id>
-            <category term="phát triển web"/>
+            <category term="web"/>
 
         <updated>2019-01-10T16:59:59+07:00</updated>
             <summary>
