@@ -3,12 +3,24 @@
     <title>Thao Le Blog</title>
     <link href="https://thaole.me/feed.xml" rel="self" />
     <link href="https://thaole.me" />
-    <updated>2019-01-10T08:20:57+07:00</updated>
+    <updated>2019-01-10T08:22:47+07:00</updated>
     <author>
         <name>Thao Le</name>
     </author>
     <id>https://thaole.me</id>
 
+    <entry>
+        <title>Vài hướng dẫn về lập trình C++ trên Linux</title>
+        <author>
+            <name>Thao Le</name>
+        </author>
+        <link href="https://thaole.me/vai-huong-dan-ve-lap-trinh-c-tren-linux.html"/>
+        <id>https://thaole.me/vai-huong-dan-ve-lap-trinh-c-tren-linux.html</id>
+
+        <updated>2019-01-10T08:22:42+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Thiết lập môi trường lập trình nhúng với QtCreator</title>
         <author>
