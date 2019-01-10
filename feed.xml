@@ -3,12 +3,38 @@
     <title>Thao Le Blog</title>
     <link href="https://thaole.me/feed.xml" rel="self" />
     <link href="https://thaole.me" />
-    <updated>2019-01-10T08:28:30+07:00</updated>
+    <updated>2019-01-10T08:38:02+07:00</updated>
     <author>
         <name>Thao Le</name>
     </author>
     <id>https://thaole.me</id>
 
+    <entry>
+        <title>Tự làm blog cá nhân với Publii</title>
+        <author>
+            <name>Thao Le</name>
+        </author>
+        <link href="https://thaole.me/tu-lam-blog-ca-nhan-voi-publii.html"/>
+        <id>https://thaole.me/tu-lam-blog-ca-nhan-voi-publii.html</id>
+
+        <updated>2019-01-10T08:37:56+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Phát triển và triển khai ứng dụng web miễn phí sử dụng Nuxt.js và surge.sh</title>
+        <author>
+            <name>Thao Le</name>
+        </author>
+        <link href="https://thaole.me/phat-trien-va-trien-khai-ung-dung-web-mien-phi-su-dung-nuxtjs-va-surgesh.html"/>
+        <id>https://thaole.me/phat-trien-va-trien-khai-ung-dung-web-mien-phi-su-dung-nuxtjs-va-surgesh.html</id>
+            <category term="phát triển web"/>
+            <category term="nodejs"/>
+
+        <updated>2019-01-10T08:37:03+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Biên dịch và cài đặt Linux kernel module cho IC giao tiếp USB MAX3421E</title>
         <author>
