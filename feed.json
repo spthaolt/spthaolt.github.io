@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Thao Le Blog",
     "description": "",
-    "home_page_url": "https://thaole.me",
-    "feed_url": "https://thaole.me/feed.json",
+    "home_page_url": "https://spthaolt.github.io",
+    "feed_url": "https://spthaolt.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Thao Le"
     },
     "items": [
         {
-            "id": "https://thaole.me/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html",
-            "url": "https://thaole.me/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html",
+            "id": "https://spthaolt.github.io/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html",
+            "url": "https://spthaolt.github.io/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html",
             "title": "Phát triển ứng dụng web nhanh chóng với Laravel, Angular và Swagger",
             "summary": "Laravel Angular Swagger ",
             "content_html": "<p>Laravel</p>\n<p>Angular</p>\n<p>Swagger</p>\n<p> </p>",
-            "image": "https://thaole.me/media/posts/3/",
+            "image": "https://spthaolt.github.io/media/posts/3/",
             "author": {
                 "name": "Thao Le"
             },
@@ -26,12 +26,12 @@
             "date_modified": "2019-01-10T07:15:09+07:00"
         },
         {
-            "id": "https://thaole.me/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html",
-            "url": "https://thaole.me/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html",
+            "id": "https://spthaolt.github.io/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html",
+            "url": "https://spthaolt.github.io/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html",
             "title": "Biên dịch Linux nhúng cho kit phát triển Violino",
             "summary": "https://github.com/thiennhan92/violino https://github.com/SongPhi/violino-vagrant ",
-            "content_html": "<p><a href=\"https://github.com/thiennhan92/violino\">https://github.com/thiennhan92/violino</a></p>\n<p><a href=\"https://github.com/SongPhi/violino-vagrant\">https://github.com/SongPhi/violino-vagrant</a></p>\n<p><img class=\"post__image\" src=\"https://thaole.me/media/posts/2/top.jpg\" alt=\"\" width=\"2048\" height=\"1152\"></p>\n<p> </p>\n<p><img class=\"post__image\" src=\"https://thaole.me/media/posts/2/violino-linux-with-lcd.jpg\" alt=\"\" width=\"1152\" height=\"2048\"></p>",
-            "image": "https://thaole.me/media/posts/2/violino-first-boot.png",
+            "content_html": "<p><a href=\"https://github.com/thiennhan92/violino\">https://github.com/thiennhan92/violino</a></p>\n<p><a href=\"https://github.com/SongPhi/violino-vagrant\">https://github.com/SongPhi/violino-vagrant</a></p>\n<p><img class=\"post__image\" src=\"https://spthaolt.github.io/media/posts/2/top.jpg\" alt=\"\" width=\"2048\" height=\"1152\"></p>\n<p> </p>\n<p><img class=\"post__image\" src=\"https://spthaolt.github.io/media/posts/2/violino-linux-with-lcd.jpg\" alt=\"\" width=\"1152\" height=\"2048\"></p>",
+            "image": "https://spthaolt.github.io/media/posts/2/violino-first-boot.png",
             "author": {
                 "name": "Thao Le"
             },
@@ -42,12 +42,12 @@
             "date_modified": "2019-01-10T07:30:04+07:00"
         },
         {
-            "id": "https://thaole.me/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html",
-            "url": "https://thaole.me/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html",
+            "id": "https://spthaolt.github.io/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html",
+            "url": "https://spthaolt.github.io/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html",
             "title": "Xây dựng chatbot với Microsoft Botframework bằng NodeJS &amp; triển khai lên Heroku",
             "summary": "https://github.com/spthaolt/lukebot https://lukechatbot.herokuapp.com Cài đặt công cụ cần thiết Thiết lập Heroku Azure NodeJS",
             "content_html": "<p><a href=\"https://github.com/spthaolt/lukebot\">https://github.com/spthaolt/lukebot</a></p>\n<p><a href=\"https://lukechatbot.herokuapp.com\">https://lukechatbot.herokuapp.com</a></p>\n<p>Cài đặt công cụ cần thiết</p>\n<p>Thiết lập</p>\n<p>Heroku</p>\n<p>Azure</p>\n<p>NodeJS</p>",
-            "image": "https://thaole.me/media/posts/1/",
+            "image": "https://spthaolt.github.io/media/posts/1/",
             "author": {
                 "name": "Thao Le"
             },

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Thao Le Blog</title>
-    <link href="https://thaole.me/feed.xml" rel="self" />
-    <link href="https://thaole.me" />
-    <updated>2019-01-10T08:12:55+07:00</updated>
+    <link href="https://spthaolt.github.io/feed.xml" rel="self" />
+    <link href="https://spthaolt.github.io" />
+    <updated>2019-01-10T08:13:56+07:00</updated>
     <author>
         <name>Thao Le</name>
     </author>
-    <id>https://thaole.me</id>
+    <id>https://spthaolt.github.io</id>
 
     <entry>
         <title>Phát triển ứng dụng web nhanh chóng với Laravel, Angular và Swagger</title>
         <author>
             <name>Thao Le</name>
         </author>
-        <link href="https://thaole.me/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html"/>
-        <id>https://thaole.me/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html</id>
+        <link href="https://spthaolt.github.io/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html"/>
+        <id>https://spthaolt.github.io/phat-trien-ung-dung-web-nhanh-chong-voi-laravel-angular-swagger.html</id>
             <category term="phát triển web"/>
 
         <updated>2019-01-10T07:15:09+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://thaole.me/media/posts/3/" alt="" />
+                        <img src="https://spthaolt.github.io/media/posts/3/" alt="" />
                     Laravel Angular Swagger 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://thaole.me/media/posts/3/" alt="" />
+                    <img src="https://spthaolt.github.io/media/posts/3/" alt="" />
                 <p>Laravel</p>
 <p>Angular</p>
 <p>Swagger</p>
@@ -40,25 +40,25 @@
         <author>
             <name>Thao Le</name>
         </author>
-        <link href="https://thaole.me/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html"/>
-        <id>https://thaole.me/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html</id>
+        <link href="https://spthaolt.github.io/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html"/>
+        <id>https://spthaolt.github.io/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html</id>
             <category term="linux"/>
 
         <updated>2019-01-10T07:30:04+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://thaole.me/media/posts/2/violino-first-boot.png" alt="" />
+                        <img src="https://spthaolt.github.io/media/posts/2/violino-first-boot.png" alt="" />
                     https://github.com/thiennhan92/violino https://github.com/SongPhi/violino-vagrant 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://thaole.me/media/posts/2/violino-first-boot.png" alt="" />
+                    <img src="https://spthaolt.github.io/media/posts/2/violino-first-boot.png" alt="" />
                 <p><a href="https://github.com/thiennhan92/violino">https://github.com/thiennhan92/violino</a></p>
 <p><a href="https://github.com/SongPhi/violino-vagrant">https://github.com/SongPhi/violino-vagrant</a></p>
-<p><img class="post__image" src="https://thaole.me/media/posts/2/top.jpg" alt="" width="2048" height="1152"></p>
+<p><img class="post__image" src="https://spthaolt.github.io/media/posts/2/top.jpg" alt="" width="2048" height="1152"></p>
 <p> </p>
-<p><img class="post__image" src="https://thaole.me/media/posts/2/violino-linux-with-lcd.jpg" alt="" width="1152" height="2048"></p>
+<p><img class="post__image" src="https://spthaolt.github.io/media/posts/2/violino-linux-with-lcd.jpg" alt="" width="1152" height="2048"></p>
             ]]>
         </content>
     </entry>
@@ -67,20 +67,20 @@
         <author>
             <name>Thao Le</name>
         </author>
-        <link href="https://thaole.me/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html"/>
-        <id>https://thaole.me/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html</id>
+        <link href="https://spthaolt.github.io/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html"/>
+        <id>https://spthaolt.github.io/xay-dung-chatbot-voi-microsoft-botframework-bang-nodejs-and-trien-khai-len-heroku.html</id>
             <category term="nodejs"/>
 
         <updated>2019-01-10T06:44:49+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://thaole.me/media/posts/1/" alt="" />
+                        <img src="https://spthaolt.github.io/media/posts/1/" alt="" />
                     https://github.com/spthaolt/lukebot https://lukechatbot.herokuapp.com Cài đặt công cụ cần thiết Thiết lập Heroku Azure NodeJS
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://thaole.me/media/posts/1/" alt="" />
+                    <img src="https://spthaolt.github.io/media/posts/1/" alt="" />
                 <p><a href="https://github.com/spthaolt/lukebot">https://github.com/spthaolt/lukebot</a></p>
 <p><a href="https://lukechatbot.herokuapp.com">https://lukechatbot.herokuapp.com</a></p>
 <p>Cài đặt công cụ cần thiết</p>
