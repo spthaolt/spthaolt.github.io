@@ -3,7 +3,7 @@
     <title>Thao Le Blog</title>
     <link href="https://thaole.me/feed.xml" rel="self" />
     <link href="https://thaole.me" />
-    <updated>2019-01-10T09:13:56+07:00</updated>
+    <updated>2019-01-10T09:26:08+07:00</updated>
     <author>
         <name>Thao Le</name>
     </author>
@@ -120,7 +120,7 @@
         <id>https://thaole.me/bien-dich-linux-nhung-cho-kit-phat-trien-violino.html</id>
             <category term="linux"/>
 
-        <updated>2019-01-10T08:43:51+07:00</updated>
+        <updated>2019-01-10T09:20:18+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thaole.me/media/posts/2/violino-first-boot.png" alt="" />
@@ -132,8 +132,13 @@
                     <img src="https://thaole.me/media/posts/2/violino-first-boot.png" alt="" />
                 <p><a href="https://github.com/thiennhan92/violino">https://github.com/thiennhan92/violino</a></p>
 <p><a href="https://github.com/SongPhi/violino-vagrant">https://github.com/SongPhi/violino-vagrant</a></p>
-<p><img class="post__image" src="https://thaole.me/media/posts/2/top.jpg" alt="" width="2048" height="1152"></p>
-<p> </p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://thaole.me/media/posts/2/gallery/3dview-top.png" ><img src="https://thaole.me/media/posts/2/gallery/3dview-top-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://thaole.me/media/posts/2/gallery/3dview-bottom.png" ><img src="https://thaole.me/media/posts/2/gallery/3dview-bottom-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://thaole.me/media/posts/2/gallery/top.jpg" ><img src="https://thaole.me/media/posts/2/gallery/top-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://thaole.me/media/posts/2/gallery/bottom.jpg" ><img src="https://thaole.me/media/posts/2/gallery/bottom-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+<p><img class="post__image" src="https://thaole.me/media/posts/2/uboot-imx233.png" alt="" width="1078" height="701"> </p>
 <p><img class="post__image" src="https://thaole.me/media/posts/2/violino-linux-with-lcd.jpg" alt="" width="1152" height="2048"></p>
             ]]>
         </content>
