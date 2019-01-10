@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://thaole.me/bien-dich-va-cai-dat-linux-kernel-module-cho-ic-giao-tiep-usb-max3421e.html",
+            "url": "https://thaole.me/bien-dich-va-cai-dat-linux-kernel-module-cho-ic-giao-tiep-usb-max3421e.html",
+            "title": "Biên dịch và cài đặt Linux kernel module cho IC giao tiếp USB MAX3421E",
+            "image": "https://thaole.me/media/posts/6/",
+            "author": {
+                "name": "Thao Le"
+            },
+            "tags": [
+                   "linux"
+            ],
+            "date_published": "2019-01-10T08:25:43+07:00",
+            "date_modified": "2019-01-10T08:25:48+07:00"
+        },
+        {
             "id": "https://thaole.me/vai-huong-dan-ve-lap-trinh-c-tren-linux.html",
             "url": "https://thaole.me/vai-huong-dan-ve-lap-trinh-c-tren-linux.html",
             "title": "Vài hướng dẫn về lập trình C++ trên Linux",
@@ -21,7 +35,7 @@
                    "cpp"
             ],
             "date_published": "2019-01-10T08:22:42+07:00",
-            "date_modified": "2019-01-10T08:23:02+07:00"
+            "date_modified": "2019-01-10T08:25:13+07:00"
         },
         {
             "id": "https://thaole.me/thiet-lap-moi-truong-lap-trinh-nhung-voi-qtcreator.html",
